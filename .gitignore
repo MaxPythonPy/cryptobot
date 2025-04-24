@@ -1,5 +1,8 @@
 ui/__pycache__
 utils/__pycache__
+components/__pycache__/
 .vscode/
 .idea/
 debug.log
+.env
+.DS_Store
